@@ -8,9 +8,9 @@ Project consists of files:
 - bot.py
 - requirements.txt
 - Dockerfile
-- docker_compose.yml 
+- docker-compose.yml 
 
-For bot.py to works, it needs .env file that contains bot token, which is not included here.
+For bot.py to works, it needs .env file that contains bot token in format BOT_TOKEN={token}, which is not included here.
 
 ## Commands:
 1. /hi, /hello - bot responds with "Hello"
