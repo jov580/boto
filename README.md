@@ -4,7 +4,13 @@
 boto is Telegram bot that checks and follows URLs, and responds with image/video from URL(if valid).
 
 ## Running the project
-Project consists of files: bot.py, requirements.txt, Dockerfile and docker_compose.yml. For bot.py to works, it needs .env file that contains bot token.
+Project consists of files: 
+-bot.py
+-requirements.txt
+-Dockerfile
+-docker_compose.yml 
+
+For bot.py to works, it needs .env file that contains bot token, which is not included here.
 
 ## Commands:
 1. /hi, /hello - bot responds with "Hello"
